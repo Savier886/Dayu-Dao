@@ -1,0 +1,4 @@
+[dependencies]
+candid = "0.12.0"
+ic-cdk = "0.2.3"
+serde = { version = "1.0", features = ["derive"] }
